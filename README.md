@@ -12,9 +12,9 @@
 <!-- Presentation -->
 ## Presentation
 
-- 👋 Hi, I’m Yvan ! Currently studying at DIIAGE located in France, precisely in Dijon. I'm preparing a system computer expert degree as a developer fullstack. I'm doing a sandwich course in this formation which led me to work at Savoye for few years now which is a conceptor and integrator company in logistics. 
-- 👀 I’m interested in making projects which will be usable from other users and learning from these projects. Outside school and work I'm not coding a lot, this is why I decided to find projects which will motivate me to make some. To start I want to make a discord bot based on League Of Legends API.
-- 🌱 I’m currently learning the clean architecture (.NET Core) at DIIAGE.
+- 👋 Hi, I’m Yvan ! Currently at IN-IT as ServiceNow consultant
+- 👀
+- 🌱
 
 <!-- CONTACT -->
 ## Contact
